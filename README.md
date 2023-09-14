@@ -1,3 +1,4 @@
+![logo](https://github.com/Vrutesh/Vrutesh/blob/main/linkedin%20banner.png)
 <h1 align="center">Hi 👋, I'm Vrutesh Mayekar</h1>
 <h3 align="center">I am a passionate Front-end Developer</h3>
 
