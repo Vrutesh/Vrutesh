@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vrutesh Mayekar</h1>
-![logo](https://github.com/Vrutesh/Vrutesh/blob/main/linkedin%20banner.png)
+<div align="center"><img src="https://github.com/Vrutesh/Vrutesh/blob/main/linkedin%20banner.png"></div>
 <h3 align="center">I am a passionate Front-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrutesh&label=Profile%20views&color=0e75b6&style=flat" alt="vrutesh" /> </p>
 
 - 🌱 I’m currently learning **ReactJS**
+- 👨‍💻 All of my projects are available at [https://github.com/Vrutesh](https://github.com/Vrutesh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
