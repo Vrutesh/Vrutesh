@@ -7,8 +7,8 @@
 - 👀 I am a passionate Front-end Developer.
 - 🎓 I have a Bachelor's degree in Information Technology.
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Vrutesh">Github</a>.
-- 📄 Please have a look at my <a href="https://drive.google.com/file/d/1eZS6w3aaBGkbBxtDafQmPDRx4V3ahTC6/view?usp=sharing">Resume </a> for more details about me. I'm open to feedback and suggestions !
-- 👉🏻 Checkout my <a href="https://vrutesh-mayekar.vercel.app/">Portfolio</a>.
+- 📄 Please have a look at my <a href="https://drive.google.com/file/d/1DttTXOkbNwpJKjJUWfWmoUxSjibxqIsz/view?usp=sharing">Resume </a> for more details about me. I'm open to feedback and suggestions !
+- 👉🏻 Checkout my <a href="https://vrutesh-portfolio.vercel.app/">Portfolio</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
