@@ -25,14 +25,27 @@
 <a href="https://docs.github.com/en" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/></a>
 <a href="https://docs.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="git" width="40" height="40"/></a></p>
 
+## 🏆 HackerRank Achievements
 
-  
-![](https://github-readme-stats.vercel.app/api?username=vrutesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<h3 align="left">Problem Solving -  ⭐⭐⭐</h3>
+Check out my HackerRank profile for more details: <a href="https://www.hackerrank.com/vruteshhhh" target="_blank" rel="noreferrer">@vruteshhhh</a>
 
-  
+## 📈 GitHub Stats
+
+![JohnDoe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrutesh&show_icons=true&theme=dark)
+
+##  🔥 GitHub Streak
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vrutesh&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vrutesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌐 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrutesh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+  
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vrutesh&icon=0&color=0)](https://visitcount.itsvg.in)
